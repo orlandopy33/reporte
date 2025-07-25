@@ -12,3 +12,7 @@ https://servidor/reporte/index.php (donde podras ver y gestionar los numeros de 
 
 
 *OBS:* Se debe modificar los datos de la base en db.php y reporte.php
+
+en issabel hay que configurar la fuente de busqueda caller id se debe usar base de datos, mysql:
+
+en el parametro consulta: SELECT CONCAT(nombre, ' ', apellido) FROM clientes WHERE numero LIKE '%[NUMBER]%'
