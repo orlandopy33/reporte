@@ -9,3 +9,6 @@ si estas usando issabel. puedes instalar issabel developer y agregar un nuevo li
 
 https://servidor/reporte//reporte.php (Donde podras ver el reporte de las llamadas entrantes,si ya tienes registrado un numero podras verlo alli en llamadas entrantes)
 https://servidor/reporte/index.php (donde podras ver y gestionar los numeros de los clientes que llamen.)
+
+
+*OBS:* Se debe modificar los datos de la base en db.php y reporte.php
